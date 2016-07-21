@@ -4,7 +4,14 @@ public class AnyOldClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//I don't understand classes and methods entirely and how they're built
+		//I don't understand classes, methods, or constructors, how they work, or how they are built.
+		
+	//statement about class
+		
+		 {
+			
+		}
+		
 	}
 
 }
